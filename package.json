@@ -24,5 +24,5 @@
   "homepage": "https://github.com/berkysr/interaction-practice#readme",
   "dependencies": {
     "lite-server": "^2.5.4"
-}
+  }
 }
